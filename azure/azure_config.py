@@ -1,0 +1,7 @@
+"""Azure config for Disease Surveillance System."""
+import os
+
+AZURE_STORAGE_CONNECTION_STRING = os.getenv("AZURE_STORAGE_CONNECTION_STRING", "")
+AZURE_HEALTH_DATA_SERVICES = os.getenv("AZURE_HEALTH_DATA_SERVICES", "")
+DATABRICKS_HOST = os.getenv("DATABRICKS_HOST", "")
+DATABRICKS_TOKEN = os.getenv("DATABRICKS_TOKEN", "")
