@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-disease-surveillance&branch=main&mainModule=app.py)
+
 # 🦟 Nigeria Disease Surveillance & Epidemic Tracker
 
 Real-time epidemic surveillance platform for Nigeria tracking malaria, cholera, Lassa fever, meningitis, and monkeypox using **GIS hotspot analysis**, **PySpark rolling case windows**, **Azure Health Data Services**, and **Streamlit**.
